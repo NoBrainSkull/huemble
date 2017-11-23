@@ -38,12 +38,8 @@ console.log(huemble.renderName());
 // script
 ```
 
-
-## Contributors
-
-
 ## License
-
+MIT
 
 ##
 
